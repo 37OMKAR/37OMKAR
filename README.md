@@ -1,6 +1,6 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0010,100:ff073a&height=200&section=header&text=LONEWOLF37&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Artist%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Climate%20%26%20ESG%20Data&descAlignY=60&descSize=18&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0010,100:ff073a&height=200&section=header&text=LONEWOLF37&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Artist%20%7C%20Creative%20Technologist%20%7C%20Climate%20and%20ESG%20Data&descAlignY=60&descSize=18&animation=fadeIn"/>
 </p>
 
 <p align="center">
