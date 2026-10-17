@@ -1,34 +1,28 @@
-<!-- ═════════════ HEADER ═════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0010,100:ff073a&height=200&section=header&text=LONEWOLF37&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Artist%20%7C%20Creative%20Technologist%20%7C%20Climate%20and%20ESG%20Data&descAlignY=60&descSize=18&animation=fadeIn"/>
+  <img src="./assets/hero.svg" width="100%" alt="LONEWOLF37 — AI Artist · Creative Technologist · Climate & ESG Data"/>
 </p>
 
 <p align="center">
-  <img src="./welcome-glitch.svg" width="100%" alt="Welcome to the Lonewolf37 den"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FF073A&center=true&vCenter=true&width=760&lines=%3E+restoring+Maratha+history+with+AI_;%3E+building+3D+digital+heritage_;%3E+curating+Gemini+prompts+for+22.8k+creators_;%3E+shipping+ESG+%26+climate-risk+dashboards_" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF073A&center=true&vCenter=true&width=760&lines=Restoring+Maratha+history+with+AI;3D+Digital+Heritage+%E2%80%A2+Gemini+Prompt+Curator;ESG+%26+Climate-Risk+Dashboards;Building+AI+tools+for+real+people" alt="Typing SVG"/>
+  <a href="https://instagram.com/37omkar"><img src="https://img.shields.io/badge/@37OMKAR-0a0a0e?style=for-the-badge&logo=instagram&logoColor=ff073a"/></a>
+  <a href="https://lonewolf37.art"><img src="https://img.shields.io/badge/LONEWOLF37.ART-0a0a0e?style=for-the-badge&logo=googlechrome&logoColor=ff073a"/></a>
+  <a href="mailto:lonewolf370000@gmail.com"><img src="https://img.shields.io/badge/HIRE%20%2F%20COLLAB-ff073a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://lonewolf37.art"><img src="https://img.shields.io/badge/lonewolf37.art-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=ff073a"/></a>
-  <a href="https://instagram.com/37omkar"><img src="https://img.shields.io/badge/22.8k_on_Instagram-ff073a?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/37OMKAR?tab=followers"><img src="https://img.shields.io/github/followers/37OMKAR?label=Followers&style=for-the-badge&color=0d0d0d&labelColor=ff073a&logo=github"/></a>
-</p>
-
----
-
-## 🕴🏻 A B O U T _ M E
+<br/>
+<img src="./assets/sec-about.svg" width="100%" alt="About me"/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-**Lonewolf37** — India-based AI artist and creative technologist.
+**Lonewolf37** — AI artist and creative technologist from India.
 I bring Maratha history back to life with AI, build 3D digital heritage, and write the code behind climate-risk and ESG analytics.
 
-- 🎨 &nbsp;AI art & historical restoration · prompt guides at **[lonewolf37.art](https://lonewolf37.art)**
+- 🎨 &nbsp;AI art & historical restoration — prompt guides at **[lonewolf37.art](https://lonewolf37.art)**
 - 🏛️ &nbsp;3D digital heritage & Blender AI tooling
 - 🌍 &nbsp;Climate-risk, PCAF & ESG dashboards for banking
 - 🛰️ &nbsp;Satellite (Sentinel-2 / Landsat) analytics for agriculture
@@ -38,55 +32,48 @@ I bring Maratha history back to life with AI, build 3D digital heritage, and wri
 <td width="42%" valign="top">
 
 ```yaml
-handle:   Lonewolf37
-based:    India
-craft:    AI Art · 3D Heritage
-data:     ESG · Climate Risk · PCAF
-stack:    TypeScript · Python
-learning: GARP SCR
-open_to:  Collabs & commissions
+handle:    Lonewolf37
+instagram: "@37omkar  (22.8k)"
+craft:     AI Art · 3D Heritage
+data:      ESG · Climate Risk · PCAF
+stack:     TypeScript · Python
+learning:  GARP SCR
+open_to:   Collabs & commissions
 ```
 
 </td>
 </tr>
 </table>
 
-## 🔗 C O N N E C T _ W I T H _ M E
+<br/>
+<img src="./assets/sec-stack.svg" width="100%" alt="Tech stack"/>
 
-<p align="center">
-  <a href="https://lonewolf37.art"><img src="https://img.shields.io/badge/Website-ff073a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://instagram.com/37omkar"><img src="https://img.shields.io/badge/Instagram-ff073a?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:lonewolf370000@gmail.com"><img src="https://img.shields.io/badge/Email-ff073a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- add LinkedIn / YouTube / X here -->
+<p align="center"><sub>LANGUAGES & FRAMEWORKS</sub><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nodejs,vite,tailwind&theme=dark&perline=9"/>
 </p>
-
-## 💻 T E C H _ S T A C K
-
-<p align="center"><b>Languages & Frameworks</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nodejs,vite,tailwind&theme=dark"/>
-</p>
-<p align="center"><b>Data, AI & 3D</b><br/><br/>
+<p align="center"><sub>DATA · AI · 3D</sub><br/>
   <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,blender,firebase&theme=dark"/><br/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentinel--2-003247?style=for-the-badge&logo=esa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-0a0a0e?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+  <img src="https://img.shields.io/badge/Plotly-0a0a0e?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-0a0a0e?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentinel--2-0a0a0e?style=for-the-badge&logo=esa&logoColor=white"/>
 </p>
-<p align="center"><b>Tools & Deploy</b><br/><br/>
+<p align="center"><sub>TOOLS & DEPLOY</sub><br/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,netlify,vercel,linux&theme=dark"/>
 </p>
 
-## 🚀 F E A T U R E D _ P R O J E C T S
+<br/>
+<img src="./assets/sec-work.svg" width="100%" alt="Featured work"/>
 
 <p align="center">
-  <a href="https://github.com/37OMKAR/listenwell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=listenwell&bg_color=0d0d0d&title_color=ff073a&icon_color=ff073a&text_color=ffffff&hide_border=true"/></a>
-  <a href="https://github.com/37OMKAR/esg-champion1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=esg-champion1&bg_color=0d0d0d&title_color=ff073a&icon_color=ff073a&text_color=ffffff&hide_border=true"/></a>
-  <a href="https://github.com/37OMKAR/signlanguage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=signlanguage&bg_color=0d0d0d&title_color=ff073a&icon_color=ff073a&text_color=ffffff&hide_border=true"/></a>
-  <a href="https://github.com/37OMKAR/EMISSIONSCRAPPER_01"><img src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=EMISSIONSCRAPPER_01&bg_color=0d0d0d&title_color=ff073a&icon_color=ff073a&text_color=ffffff&hide_border=true"/></a>
+  <a href="https://github.com/37OMKAR/listenwell"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=listenwell&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
+  <a href="https://github.com/37OMKAR/esg-champion1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=esg-champion1&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
+  <a href="https://github.com/37OMKAR/signlanguage"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=signlanguage&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
+  <a href="https://github.com/37OMKAR/EMISSIONSCRAPPER_01"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=EMISSIONSCRAPPER_01&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
 </p>
 
 <details>
-<summary><b>More things I've built</b></summary>
+<summary><b>▸ More things I've built</b></summary>
 <br/>
 
 | Project | What it does |
@@ -100,26 +87,30 @@ open_to:  Collabs & commissions
 
 </details>
 
-## 📊 G I T H U B _ S T A T S
+<br/>
+<img src="./assets/sec-stats.svg" width="100%" alt="GitHub stats"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=37OMKAR&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff073a&icon_color=ff073a&text_color=ffffff&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=37OMKAR&hide_border=true&background=0d0d0d&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=37OMKAR&show_icons=true&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=37OMKAR&background=0a0a0e&border=24101a&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideLabels=d6d6de&currStreakNum=ffffff&sideNums=ffffff&dates=6c6c78&stroke=24101a"/>
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37OMKAR&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff073a&text_color=ffffff&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37OMKAR&layout=compact&bg_color=0a0a0e&title_color=ff073a&text_color=d6d6de&border_color=24101a&langs_count=8"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=37OMKAR&theme=radical"/>
 </p>
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=37OMKAR&theme=radical"/>
 </p>
 
-## 🏆 A W A R D S
+<br/>
+<img src="./assets/sec-awards.svg" width="100%" alt="Achievements"/>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=37OMKAR&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+  <img src="https://trophy.ryglcloud.net/?username=37OMKAR&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 </p>
 
-## 👾 C O N T R I B U T I O N _ A R C A D E
+<br/>
+<img src="./assets/sec-arcade.svg" width="100%" alt="Contribution arcade"/>
 
 <p align="center">
   <picture>
@@ -134,8 +125,17 @@ open_to:  Collabs & commissions
   </picture>
 </p>
 
-<!-- ═════════════ FOOTER ═════════════ -->
+<br/>
+<img src="./assets/sec-connect.svg" width="100%" alt="Connect"/>
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff073a,50:3a0010,100:0d0d0d&height=120&section=footer"/>
+  <a href="https://instagram.com/37omkar"><img src="https://img.shields.io/badge/Instagram-@37OMKAR-ff073a?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0e"/></a>
+  <a href="https://lonewolf37.art"><img src="https://img.shields.io/badge/Website-lonewolf37.art-ff073a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0e"/></a>
+  <a href="mailto:lonewolf370000@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-ff073a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0e"/></a>
+  <!-- add LinkedIn / YouTube / X here -->
 </p>
-<p align="center"><sub>Made 🐺 by <a href="https://github.com/37OMKAR">@37OMKAR</a> · Lonewolf37</sub></p>
+
+<br/>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Hunt alone. Create together."/>
+</p>
