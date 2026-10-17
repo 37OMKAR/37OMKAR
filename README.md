@@ -12,6 +12,10 @@
   <a href="mailto:lonewolf370000@gmail.com"><img src="https://img.shields.io/badge/HIRE%20%2F%20COLLAB-ff073a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="./assets/profile-card.svg" width="100%" alt="Lonewolf37 profile card"/>
+</p>
+
 <br/>
 <img src="./assets/sec-about.svg" width="100%" alt="About me"/>
 
