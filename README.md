@@ -69,7 +69,7 @@ open_to:   Collabs & commissions
   <a href="https://github.com/37OMKAR/listenwell"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=listenwell&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
   <a href="https://github.com/37OMKAR/esg-champion1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=esg-champion1&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
   <a href="https://github.com/37OMKAR/signlanguage"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=signlanguage&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
-  <a href="https://github.com/37OMKAR/EMISSIONSCRAPPER_01"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=EMISSIONSCRAPPER_01&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
+  <a href="https://github.com/37OMKAR/Lonewolf37-awesome-ai-prompts-library"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=37OMKAR&repo=Lonewolf37-awesome-ai-prompts-library&bg_color=0a0a0e&title_color=ff073a&icon_color=ff073a&text_color=d6d6de&border_color=24101a"/></a>
 </p>
 
 <details>
