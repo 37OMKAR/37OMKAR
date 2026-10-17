@@ -4,7 +4,6 @@
 
 <a href="https://lonewolf37.art"><img src="https://img.shields.io/badge/LONEWOLF37.ART-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=ff073a"/></a>
 <a href="https://instagram.com/37omkar"><img src="https://img.shields.io/badge/FOLLOW-%4037omkar-ff073a?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/></a>
-<img src="https://komarev.com/ghpvc/?username=37OMKAR&style=for-the-badge&color=ff073a&label=PROFILE+VIEWS"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF073A&center=true&vCenter=true&width=700&lines=AI+Artist+%7C+Maratha+History+Restored+with+AI;3D+Digital+Heritage+%7C+Gemini+Prompt+Curator;ESG+%26+Climate-Risk+Data+%7C+Dashboards+%26+Web+Apps" alt="Typing SVG"/>
 
@@ -53,12 +52,14 @@ community: 22.8k+ creators on Instagram @37omkar
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37OMKAR&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff073a&text_color=ffffff&langs_count=8"/>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=37OMKAR&bg_color=0d0d0d&color=ffffff&line=ff073a&point=ffffff&area=true&area_color=ff073a&hide_border=true"/>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=37OMKAR&theme=radical"/>
+</p>
 
 ## 🏆 A W A R D S
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=37OMKAR&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+  <img src="https://trophy.ryglcloud.net/?username=37OMKAR&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 ## 💻 T E C H _ S T A C K
